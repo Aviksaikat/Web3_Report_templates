@@ -1,6 +1,7 @@
 ## Vulnerability details
 
 ## Lines of code
+### Total -> 
 
 ## Impact
 
